@@ -1,19 +1,19 @@
 {
-  "name": "com.dreadscripts.blendtreebuilder",
-  "displayName": "DreadScripts - BlendTreeBuilder",
+  "name": "com.rainy.blendtreebuilder",
+  "displayName": "Rainy - BlendTreeBuilder",
   "version": "0.8.1",
   "description": "A Unity tool to make VRC Blendtree creation easier and faster.",
+  "author": {
+    "name": "Rainy",
+    "email": "hello@rainy.fans",
+    "url": "https://github.com/rainy-aa"
+  },
   "gitDependencies": {},
   "vpmDependencies": {},
-  "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://www.dreadrith.com"
-  },
   "legacyFolders": {},
   "legacyFiles": {},
   "type": "tool",
   "unity": "2019.4",
-  "url": "https://github.com/Dreadrith/BlendTreeBuilder/releases/download/v0.8.1/BlendTreeBuilder_v0.8.1_VPM.zip",
-  "unityPackage": "https://github.com/Dreadrith/BlendTreeBuilder/releases/download/v0.8.1/BlendTreeBuilder_v0.8.1.unitypackage"
+  "url": "https://github.com/rainy-aa/BlendTreeBuilder/releases/download/v0.8.1/BlendTreeBuilder-v0.8.1-VPM.zip",
+  "unityPackage": "https://github.com/rainy-aa/BlendTreeBuilder/releases/download/v0.8.1/BlendTreeBuilder-v0.8.1.unitypackage"
 }
